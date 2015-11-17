@@ -4,3 +4,5 @@ Reading Mode is blue light reducer for Mac displays. It helps reduce eye strain 
 1) Use Xcode to compile
 
 2) Profit!
+
+(Compiled .app is also included in .zip file)
